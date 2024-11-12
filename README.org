@@ -5,4 +5,4 @@ We define the following functions:
 
 | Function Name  | Description                                                                  |
 |----------------+------------------------------------------------------------------------------|
-| standard_error | The standard deviation of the sampling distribution of the mean \(\mu_{sample}\). |
+| standard_error | The standard deviation of the sampling distribution of the mean $(\mu_{sample}$. |
