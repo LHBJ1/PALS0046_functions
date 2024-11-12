@@ -1,4 +1,4 @@
-* PALS0046_functions
+# PALS0046_functions
 Opinianated helper functions to assist in PALS0046 tutorials and assessments. 
 
 We define the following functions: 
